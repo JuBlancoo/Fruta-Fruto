@@ -1,0 +1,16 @@
+.sub__titulo {
+    color: #8D0606;
+    font-family: Pacifico;
+}
+
+@media screen and (min-width: 0) {
+    .sub__titulo {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .sub__titulo {
+        font-size: 3.1875rem;
+    }
+}
